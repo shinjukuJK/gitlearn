@@ -4,4 +4,4 @@ git is free software.
 you die
 git is good at change control\
 creating a new branch is quick.
-creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
